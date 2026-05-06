@@ -1,16 +1,25 @@
-## Hi there 👋
+## óla meu nome é Pedro T!✌️
 
-<!--
-**ptomaz-ai/ptomaz-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente sou estundate do curso 
+Técnico em Desenvolvimento de Sistemas no SENAI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Diciplinas cursadas:👍
+-Lógica de Programação e Algortimo;
+-Arquitetura de Rede com IOT;
+-Sistemas Operacionais;
+-Levantamentos de Requisitos.
+
+---
+
+## Linguagens Estudadas
+-Python;
+-C++
+
+---
+
+## Meu sonho é
+
+Viver da Minha Arte🎶
+
